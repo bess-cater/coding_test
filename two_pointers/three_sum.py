@@ -32,6 +32,6 @@ class Solution:
     
 if __name__ == "__main__":
     new_ = Solution()
-    nums = [-1,0,1,2,-1,-4]
+    nums = [-1,0,1,2,2, 2,-1,-4]
     answer = new_.threeSum(nums)
     print(answer)
